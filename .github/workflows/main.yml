@@ -33,4 +33,4 @@ jobs:
           target_branch: output
           build_dir: .
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.FE779399B069059B }}

@@ -10,16 +10,27 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: Dc0st4
-          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # 1️⃣ Checkout do repositório
+      - uses: actions/checkout@v4
+
+      # 2️⃣ Configurar Python
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # 3️⃣ Instalar dependências
+      - run: pip install requests
+
+      # 4️⃣ Rodar script cyberpunk
+      - name: Generate Cyberpunk Towers SVG
+        run: python generate_towers.py
+
+      # 5️⃣ Commit e push para branch output
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -6,13 +6,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dc0st4&layout=compact&langs_count=16&theme=radical"/>
 </div>    
 
-##
-
-<div>
-  
-  
-
-
-</div>  
 
   

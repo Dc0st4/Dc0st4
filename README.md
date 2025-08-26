@@ -11,7 +11,7 @@
 <div>
   
   
-![Snake animation](https://github.com/Dc0st4/Dc0st4/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Dc0st4/Dc0st4/blob/output/generate_towers.py)
 
 </div>  
 

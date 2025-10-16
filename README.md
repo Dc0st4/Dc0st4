@@ -15,8 +15,11 @@
 
 ---
 
-## ⚙️ TERMINAL — [ Dc0st4 ]
+<p align="center">
+  <img src="assets/terminal-neon.svg" alt="Terminal neon — Dc0st4" />
+</p>
 
+## ⚙️ TERMINAL — [ Dc0st4 ]
 ```bash
 > boot: neon-host — online
 > profile: dc0st4 (Analista de T.I / Bug Bounty)
@@ -24,3 +27,4 @@
 > specialties: RCE · SQLi · XSS · LFI · PrivEsc
 > ethics: authorized tests only
 > motto: "Code is poetry, exploits are symphonies."
+

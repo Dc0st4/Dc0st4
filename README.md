@@ -15,9 +15,12 @@
 
 ---
 
-## ⚙️ About Me
+## ⚙️ TERMINAL — [ Dc0st4 ]
+
 ```bash
-Role:      Analista de T.I / Bug Bounty Hunter
-Focus:     Offensive Security, Pentest, Recon Automation
-Toolchain: Burp Suite | Nmap | Naabu | FFUF | Nuclei | Metasploit
-Langs:     Python | Bash | PowerShell
+> boot: neon-host — online
+> profile: dc0st4 (Analista de T.I / Bug Bounty)
+> stack: Python · Bash · PowerShell | Nmap · Burp · FFUF · Nuclei
+> specialties: RCE · SQLi · XSS · LFI · PrivEsc
+> ethics: authorized tests only
+> motto: "Code is poetry, exploits are symphonies."

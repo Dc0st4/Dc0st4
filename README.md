@@ -1,4 +1,4 @@
-# 🕶️ Hello, World! — Welcome to the Grid
+# Hello, World!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FFF0&center=true&vCenter=true&width=500&lines=init+connection...;access+granted;loading+profile+Dc0st4();" alt="Typing SVG" />
